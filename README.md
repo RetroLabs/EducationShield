@@ -8,6 +8,7 @@ PCB
 The PCB was created in Fritzing. This makes it easy for anyone to change if needed. The zip file can be sent to a PCB manufacturers to be made. 
 Fritzing can be found at https://fritzing.org/download/
 
+
 Inputs:
 
 Hall Sensor,
@@ -16,7 +17,7 @@ Button,
 RX UART,
 Potentiometer,
 Light detector,
-Temperature sensor
+and Temperature sensor
 
 Outputs:
 
@@ -25,4 +26,4 @@ RGB LED,
 Vibration motor,
 Piezo buzzer,
 TX UART,
-OLED Screen
+and OLED Screen
