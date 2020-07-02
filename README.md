@@ -8,7 +8,8 @@ PCB
 The PCB was created in Fritzing. This makes it easy for anyone to change if needed. The zip file can be sent to a PCB manufacturers to be made. 
 Fritzing can be found at https://fritzing.org/download/
 
-Inputs
+Inputs:
+
 Hall Sensor
 Switch
 Button
@@ -17,7 +18,8 @@ Potentiometer
 Light detector
 Temperature sensor
 
-Outputs
+Outputs:
+
 White LED
 RGB LED
 Vibration motor
