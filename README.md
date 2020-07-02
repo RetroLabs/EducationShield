@@ -10,19 +10,19 @@ Fritzing can be found at https://fritzing.org/download/
 
 Inputs:
 
-Hall Sensor
-Switch
-Button
-RX UART
-Potentiometer
-Light detector
+Hall Sensor,
+Switch,
+Button,
+RX UART,
+Potentiometer,
+Light detector,
 Temperature sensor
 
 Outputs:
 
-White LED
-RGB LED
-Vibration motor
-Piezo buzzer
-TX UART
+White LED,
+RGB LED,
+Vibration motor,
+Piezo buzzer,
+TX UART,
 OLED Screen
