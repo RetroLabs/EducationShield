@@ -29,3 +29,7 @@ Vibration motor,
 Piezo buzzer,
 TX UART,
 and OLED Screen
+
+Let me know if you have any questions david.crogan@yahoo.com
+
+Enjoy :)
